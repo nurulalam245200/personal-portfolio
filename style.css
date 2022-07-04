@@ -46,3 +46,26 @@ h1 {
     color: bisque;
     font-weight: 700;
 }
+
+.experience_book {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 15px 15px 60px gray;
+    border-radius: 10px;
+
+}
+
+#full_developer {
+    border-left: 8px solid limegreen;
+}
+
+#fresh_developer {
+    border-left: 10px double blue;
+}
+
+footer p {
+    text-align: center;
+    color: rgb(216, 10, 10)
+}
