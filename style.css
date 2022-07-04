@@ -47,6 +47,16 @@ h1 {
     font-weight: 700;
 }
 
+#devo_link {
+    background-image: linear-gradient(rgb(221, 15, 118), rgb(235, 55, 160));
+
+}
+
+.h_size {
+    font-size: 30px;
+}
+
+
 .exp_headdding {
     padding-left: 70px;
 }
