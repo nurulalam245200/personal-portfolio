@@ -57,6 +57,11 @@ h1 {
 
 }
 
+.experiences {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
 #full_developer {
     border-left: 8px solid limegreen;
 }
