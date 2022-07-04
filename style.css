@@ -1,0 +1,44 @@
+body {
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.name_color {
+    color: orangered;
+}
+
+.site_page {
+    display: flex;
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.site_page2 {
+    display: flex;
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.myimage1 {
+    width: 80%;
+}
+
+.top_site {
+    width: 50%;
+    padding: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(235, 92, 67), rgb(240, 96, 43));
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: bisque;
+    font-weight: 700;
+}
