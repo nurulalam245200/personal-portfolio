@@ -16,6 +16,8 @@ h1 {
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 200px;
+    margin-left: 0;
 }
 
 .site_page2 {
@@ -23,6 +25,11 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.last_page {
+    display: flex;
+    padding: 10%;
 }
 
 .myimage1 {
