@@ -8,28 +8,25 @@ h1 {
     font-size: 40px;
 }
 
+.secFlexible {
+    display: flex;
+    margin-bottom: 200px;
+}
+
 .name_color {
     color: orangered;
 }
 
-.site_page {
-    display: flex;
+.top_page {
+
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    margin-bottom: 200px;
-    margin-left: 0;
 }
 
-.site_page2 {
-    display: flex;
+.middle_page {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-}
-
-.last_page {
-    display: flex;
-    padding: 10%;
 }
 
 .myimage1 {
